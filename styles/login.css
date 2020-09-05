@@ -1,0 +1,40 @@
+form {
+    background: #333;
+    border-style: solid;
+    color: white;
+    width: fit-content;
+    text-align: center;
+    padding: 4px;
+}
+
+form button{
+    float: right;
+    padding: 4px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.form-row{
+    padding: 16px;
+}
+
+.form-row label{
+    float: left;
+    padding-inline-end: 16px;
+}
+
+.form-row input{
+    float: right;
+}

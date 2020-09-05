@@ -4,7 +4,8 @@
         <link rel="stylesheet" href="styles/header.css"></link>
         <link rel="stylesheet" href="styles/index.css"></link>
         <link rel="stylesheet" href="styles/footer.css"></link>
-        <script type="text/javascript" src="scripts/index.js"></script>
+
+        <script type="text/javascript" src="scripts/header.js"></script>
     </head>
     <body>
         <?php require 'view_components/header.php'?>

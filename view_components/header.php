@@ -18,7 +18,6 @@
             <li><a href="index.php">Home</a></li>
             <li id="btnLogin">
                 <?php
-                $_SESSION['user'] = array('email' => 'ericmatz1@gmail.com','username'=>'ericm');
                 if (isset($_SESSION['user'])) {
                     echo $dropdown;
                 } else {

@@ -1,0 +1,1 @@
+let btnLogout = document.getElementById('btnLogout'), btnLogin = document.getElementById('btnLogin');
