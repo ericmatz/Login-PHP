@@ -1,7 +1,7 @@
 <h1 align="center">Login-PHP</h1>
 
 ##  1.  About This System
-    This repoistory is meant to be a forkable starter for PHP and MySQL(for now) backed project that includes a solid foundation login system
+<p>This repoistory is meant to be a forkable starter for PHP and MySQL(for now) backed project that includes a solid foundation login system</p>
 
 ##  2.  TODO (Skeleton Setup):
     - [x] Setup Generic Pages
